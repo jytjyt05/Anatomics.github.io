@@ -97,7 +97,7 @@ title: "Anatomics" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Official Website for Anatomics" # Site description and default description, also used in jekyll-seo-tag
 url: "https://jytjyt05.github.io/Anatomics.github.io/" # Site url, also used in jekyll-seo-tag
-# baseurl: ""
+baseurl: "https://jytjyt05.github.io/Anatomics.github.io/"
 # repo: "https://github.com/daviddarnes/alembic"
 # email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
