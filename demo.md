@@ -1,4 +1,7 @@
-# Quickstart Guide
+---
+title: Demo
+---
+## Quickstart Guide
 After installation of Anatomics MLT 2024, a test training may be accomplished by following the instructions below.  
 
 > This demo/tutorial presents an example of a semantic3D segmentation.  
