@@ -1,11 +1,11 @@
----
+<!-- ---
 title: About
 feature_text: |
   About the Anatomics Software
 # feature_image: "https://picsum.photos/2560/600?image=873"
 # excerpt: "A demo of Markdown and HTML includes"
 # aside: true
----
+--- -->
 # About the Anatomics Software
 This software aims to help biologists, especially plant biologists, harness the latest AI-driven technology to perform customizable image and volume segmentation.
 

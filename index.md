@@ -29,6 +29,7 @@ The main function of the software includes:
 
 - [ ] Install the program using the following commands. Please copy them by highlighting them all with your cursor, and then pressing CTRL+C, or right click and select copy. Then run them by pasting them into the terminal (either using CTRL+V or right clicking and click paste.). After you hit paste, the installation process should occur automatically. This may take a while. When it is done, it should print "Completely finished with installation. And the program will open automatically.
 ```bash 
+
 cd Documents 
 
 conda create --name plantTorch python=3.8.11 -y 
@@ -91,6 +92,7 @@ The main program should now visible on your screen:
 Open miniconda by clicking start, typing miniconda, and selecting "Anaconda Prompt (Miniconda3)". Then type the following: 
 
 ```bash 
+
 cd Documents 
 
 cd WSU_PlantBio_ML 
@@ -104,6 +106,7 @@ If an error is shown when trying to update, please type ‘git reset –hard'. A
 
 If you need to uninstall the program for some reason (One reason could be getting a fresh install), do the following things. Close miniconda. Delete the WSU_PlantBio_ML folder and everything in it. Then open miniconda and type the following: 
 ```bash 
+
 conda deactivate plantTorch (If your miniconda prompt lines start with (plantTorch). If they say (base), please skip this line/step) 
 
 conda env remove -n plantTorch -y 
