@@ -12,25 +12,25 @@ This software aims to help biologists, especially plant biologists, harness the 
 Special thanks to PyTorch Connectomics (https://github.com/zudi-lin/pytorch_connectomics) for the support.
 
 # Members of our team
-- Aaron Brookhouse<sup>1</sup> 
-- Yuting Ji<sup>2</sup> 
-- Jan Knoblauch<sup>1</sup> 
-- Petr Gaburak<sup>1</sup> 
-- Brittney M. Wager<sup>1</sup>
-- Zudi Lin<sup>3</sup>
-- Hans-Henning Kunz<sup>1,4</sup>
-- Assefaw H. Gebremedhin<sup>5</sup> 
-- Hanspeter Pfister<sup>3</sup> 
-- Winfried S. Peters<sup>1,6</sup>
-- Donglai Wei<sup>2</sup>
-- Michael Knoblauch<sup>1</sup>
+Aaron Brookhouse<sup>1</sup><br>
+Yuting Ji<sup>2</sup><br>
+Jan Knoblauch<sup>1</sup><br>
+Petr Gaburak<sup>1</sup><br>
+Brittney M. Wager<sup>1</sup><br>
+Zudi Lin<sup>3</sup><br>
+Hans-Henning Kunz<sup>1,4</sup><br>
+Assefaw H. Gebremedhin<sup>5</sup><br>
+Hanspeter Pfister<sup>3</sup><br> 
+Winfried S. Peters<sup>1,6</sup><br>
+Donglai Wei<sup>2</sup><br>
+Michael Knoblauch<sup>1</sup>
 
-1. School of Biological Sciences, Washington State University, Pullman WA, USA 
-2. Computer Science Department, Boston College, Boston MA, USA 
-3. Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge MA, USA 
-4. Plant Biochemistry, Faculty of Biology, Ludwig-Maximilians-Universität Munich, 82152 Planegg-Martinsried, Germany 
-5. School of Electrical Engineering and Computer Science, Washington State University, Pullman WA, USA 
-6. Department of Biological Sciences, Purdue University Fort Wayne, Fort Wayne IN, USA 
+1. <small>School of Biological Sciences, **Washington State University**, Pullman WA, USA </small>
+2. <small>Computer Science Department, **Boston College**, Boston MA, USA </small>
+3. <small>Harvard John A. Paulson School of Engineering and Applied Sciences, **Harvard University**, Cambridge MA, USA </small>
+4. <small>Plant Biochemistry, Faculty of Biology, **Ludwig-Maximilians-Universität Munich**, 82152 Planegg-Martinsried, Germany </small>
+5. <small>School of Electrical Engineering and Computer Science, **Washington State University**, Pullman WA, USA </small>
+6. <small>Department of Biological Sciences, **Purdue University Fort Wayne**, Fort Wayne IN, USA </small>
 
 
 
